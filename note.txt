@@ -1,0 +1,46 @@
+
+E Puskesmas
+
+- Dashboard
+	- Pasien d
+	- Rekam Medis d
+	- Laporan -> pdf,print d
+	  - Rekam Medis d
+
+
+
+-- rekam medis
+
+tgl
+nama pasien
+alamat
+keluhan
+diagnosa
+nama obat
+
+--
+
+
+-- daftar registrasi pasien 
+
+nama 
+nik
+alamat
+no tlp
+jenis kelamin
+
+
+
+--
+
+-- pasien
+
+nama 
+nik
+no tlp
+jenis kelamin
+
+
+
+
+

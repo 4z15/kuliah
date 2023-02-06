@@ -1,0 +1,59 @@
+
+E Puskesmas
+
+- Dashboard
+	-admin
+		-daftar pasien
+		-pilih dokter
+	-dokter
+		-rekam medis
+	-perawat 
+		-obat
+		-transaksi
+	-Laporan
+		-print rekam medis
+	
+
+
+-- transaksi
+id_transaksi
+nama pasien
+pemeriksaan
+obat
+total
+-- rekam medis
+
+tgl
+nama pasien
+alamat
+keluhan
+diagnosa
+nama obat
+status
+
+--
+
+
+-- daftar registrasi pasien 
+
+nama 
+nik
+alamat
+no tlp
+jenis kelamin
+
+
+
+--
+
+-- pasien
+
+nama 
+nik
+no tlp
+jenis kelamin
+
+
+
+
+
